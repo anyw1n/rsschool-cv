@@ -1,6 +1,12 @@
 # Aliaksei Zhyzhenski
+![Profile photo](/images/profile_photo.png)
 
 ## Contact me:
+[![alexey.zhizhensky@gmail.com](/images/email_logo.png)](mailto:alexey.zhizhensky@gmail.com)
+[![LinkedIn](/images/linkedin_logo.png)](https://www.linkedin.com/in/alexey-zhizhensky-667ab11a8)
+[![Facebook](/images/facebook_logo.png)](https://www.facebook.com/alexey.zhizhensky)
+[![Telegram](/images/telegram_logo.png)](https://t.me/anyw1n)
+[![VK](/images/vk_logo.png)](https://vk.com/anywin)
 
 ## Summary:
 I am a third-year student of Francisk Skorina Gomel State University, specialty - computer physics. The creation of mobile applications began to attract me when I was in school. Since then I have decided that I will study to be a programmer. I have chosen the direction of developing mobile applications for several important reasons. The first is mobility. Phones are always with us, which means that the application will always be at hand. The second reason is that the developer deals with the backend and frontend. The third reason is the continuous development of technology, which will not let you get bored. I love to learn new things and put them into practice with ease.
