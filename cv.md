@@ -14,10 +14,10 @@ I am a third-year student of Francisk Skorina Gomel State University, specialty 
 ## Skills:
 * **Languages:** Swift
 * **Architecture patterns:** MVC
-* **Frameworks:** Foundation | UIKit | SnapKit | Alamofire | Kingfisher | SwiftLint
+* **Frameworks:** Foundation, UIKit, SnapKit, Alamofire, Kingfisher, SwiftLint
 * **Database:** CoreData
-* **VCS:** Git | Github | Bitbucket
-* **Package Managers:** Cocoapods | Carthage | SPM
+* **VCS:** Git, Github, Bitbucket
+* **Package Managers:** Cocoapods, Carthage, SPM
 
 Got the experience of creating apps and projects with Xcode 11.4, using Carthage and
 CocoaPods, Sourcetree and GitHub. Have an idea of developing iOS-applications in general
